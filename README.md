@@ -1,2 +1,2 @@
 # layui文档
-[Link](http://zyhd.gitee.io/layui-document/layui/index.htm)
+在线查看地址 [http://zyhd.gitee.io/layui-document/layui/index.htm](http://zyhd.gitee.io/layui-document/layui/index.htm)
